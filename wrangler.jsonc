@@ -1,0 +1,8 @@
+{
+  "name": "robbiesapunarich-dotcom",
+  "compatibility_date": "2025-11-11",
+  "preview_urls": true,
+  "assets": {
+    "directory": "dist"
+  }
+}
